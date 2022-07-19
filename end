@@ -1,0 +1,36 @@
+[33mcommit e85c5fda80314b4d8782df1945c47ac69eba679e[m[33m ([m[1;36mHEAD -> [m[1;32mui[m[33m)[m
+Merge: b5be519 b93cf16
+Author: Bennykzl <kwanzhengle1003@gmail.com>
+Date:   Tue Jul 19 14:31:53 2022 +0800
+
+    Merge branch 'main' into ui
+
+[33mcommit b93cf16667813bfd79f54b83c1021ca3cb41f647[m[33m ([m[1;32mmain[m[33m)[m
+Author: Bennykzl <kwanzhengle1003@gmail.com>
+Date:   Tue Jul 19 14:30:53 2022 +0800
+
+    adding features2 empty page into master
+
+[33mcommit b5be51960f4ad598f230edd286e92c89ed6b9271[m
+Author: Bennykzl <kwanzhengle1003@gmail.com>
+Date:   Tue Jul 19 14:29:19 2022 +0800
+
+    adding features page to ui branch
+
+[33mcommit b6e6ecb5b9373c0c32c817075e64ab5b2f44c163[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Bennykzl <kwanzhengle1003@gmail.com>
+Date:   Tue Jul 19 13:42:39 2022 +0800
+
+    Added some numbers in readme
+
+[33mcommit 783660d4312ec94feb408615757936e5e5069fd4[m
+Author: Bennykzl <62295689+Bennykzl@users.noreply.github.com>
+Date:   Tue Jul 19 13:40:44 2022 +0800
+
+    Create Homepage.html
+
+[33mcommit b26608d72cee4ed0ff314fe803f1b08a5c65c6d9[m
+Author: Bennykzl <62295689+Bennykzl@users.noreply.github.com>
+Date:   Tue Jul 19 13:40:22 2022 +0800
+
+    Initial commit
